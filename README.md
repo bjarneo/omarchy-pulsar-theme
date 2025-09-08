@@ -2,11 +2,11 @@
 
 Pulsar is a vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars and celestial phenomena. With electric blues, luminous magentas, and radiant cyans against the deep void of space, it's designed for those who code among the stars.
 
-> In cosmic depths where pulsars spin,
-> Electric blues and magentas begin.
-> Each line of code, a stellar beam,
-> In pulsar's glow, where coders dream,
-> And brilliant focus lights within.
+> In cosmic depths where pulsars spin,  
+> Electric blues and magentas begin.  
+> Each line of code, a stellar beam,  
+> In pulsar's glow, where coders dream,  
+> And brilliant focus lights within.  
 
 ## Screenshot
 
